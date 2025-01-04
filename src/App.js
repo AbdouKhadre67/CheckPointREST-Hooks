@@ -4,7 +4,6 @@ import MovieList from './components/MovieList';
 import Filter from './components/Filter';
 import './styles.css';
 
-
 function App() {
   const [movies, setMovies] = useState([
     {
